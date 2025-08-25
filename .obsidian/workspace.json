@@ -11,10 +11,14 @@
             "id": "a96e5be9fa8c0548",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Test"
             }
           },
           {
@@ -137,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Test"
             }
           },
           {
@@ -175,8 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0245c16496dd37e",
+  "active": "cb6b7d70de01b39f",
   "lastOpenFiles": [
+    "Test.md",
+    "Untitled",
     "Untitled.base",
     "Untitled 1.base",
     "Welcome.md"
